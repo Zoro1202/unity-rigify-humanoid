@@ -1,0 +1,12 @@
+{
+  "name": "RigifyHumanoid.Tests",
+  "references": [
+    "RigifyHumanoid.Editor"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ]
+}

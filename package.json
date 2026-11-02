@@ -1,0 +1,17 @@
+{
+  "name": "com.zoro122.rigify-humanoid",
+  "version": "0.1.0",
+  "displayName": "Rigify Humanoid Converter",
+  "description": "Conservative Rigify FBX to Unity Humanoid conversion with validated exports.",
+  "unity": "6000.3",
+  "license": "MIT",
+  "author": {
+    "name": "Zoro122"
+  },
+  "keywords": [
+    "rigify",
+    "humanoid",
+    "blender",
+    "editor"
+  ]
+}

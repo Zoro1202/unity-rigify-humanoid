@@ -1,0 +1,8 @@
+{
+  "name": "RigifyHumanoid.Editor",
+  "rootNamespace": "RigifyHumanoid.Editor",
+  "includePlatforms": [
+    "Editor"
+  ],
+  "autoReferenced": true
+}

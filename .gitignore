@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.omx/
+Library/
+Temp/
+Logs/
+UserSettings/
+*.fbx
+*.blend
+*.zip
+.DS_Store
+__pycache__.meta
